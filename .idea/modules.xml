@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Composite-TopicsAndLecturesSolution/Composite-TopicsAndLecturesSolution.iml" filepath="$PROJECT_DIR$/Composite-TopicsAndLecturesSolution/Composite-TopicsAndLecturesSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/Composite-TopicsAndLecturesStarter/Composite-TopicsAndLecturesStarter.iml" filepath="$PROJECT_DIR$/Composite-TopicsAndLecturesStarter/Composite-TopicsAndLecturesStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator-SimpleIteratorSolution/Iterator-SimpleIteratorSolution.iml" filepath="$PROJECT_DIR$/Iterator-SimpleIteratorSolution/Iterator-SimpleIteratorSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator-SimpleIteratorStarter/Iterator-SimpleIteratorStarter.iml" filepath="$PROJECT_DIR$/Iterator-SimpleIteratorStarter/Iterator-SimpleIteratorStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator-ToyStoreAdvancedSolution/Iterator-ToyStoreAdvancedSolution.iml" filepath="$PROJECT_DIR$/Iterator-ToyStoreAdvancedSolution/Iterator-ToyStoreAdvancedSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator-ToyStoreAdvancedStarter/Iterator-ToyStoreAdvancedStarter.iml" filepath="$PROJECT_DIR$/Iterator-ToyStoreAdvancedStarter/Iterator-ToyStoreAdvancedStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer-CourseInstructorStudentsSolution/Observer-CourseInstructorStudentsSolution.iml" filepath="$PROJECT_DIR$/Observer-CourseInstructorStudentsSolution/Observer-CourseInstructorStudentsSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/Observer-CourseInstructorStudentsStarter/Observer-CourseInstructorStudentsStarter.iml" filepath="$PROJECT_DIR$/Observer-CourseInstructorStudentsStarter/Observer-CourseInstructorStudentsStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer-SimpleDrawingPlayerSolution/Observer-SimpleDrawingPlayerSolution.iml" filepath="$PROJECT_DIR$/Observer-SimpleDrawingPlayerSolution/Observer-SimpleDrawingPlayerSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/Observer-SimpleDrawingPlayerStarter/Observer-SimpleDrawingPlayerStarter.iml" filepath="$PROJECT_DIR$/Observer-SimpleDrawingPlayerStarter/Observer-SimpleDrawingPlayerStarter.iml" />
+    </modules>
+  </component>
+</project>
